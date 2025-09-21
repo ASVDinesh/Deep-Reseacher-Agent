@@ -1,0 +1,11 @@
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+transformers>=4.30.0
+torch>=1.13.0
+gradio>=3.30.0
+pymupdf>=1.22.0
+pdfminer.six>=20221105
+python-docx>=0.8.11
+pandas>=1.5.0
+tqdm>=4.64.0
+markdown2>=2.4.0
